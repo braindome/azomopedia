@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-* [Cloud Services](#cloud services)
+* [Cloud Services](#cloud-services)
 	* [Serverless](#serverless)
-* [React](#React)
-	* [Redux](#Redux) 
+* [React](#react)
+	* [Redux](#redux) 
 
 
 
