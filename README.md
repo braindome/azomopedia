@@ -4,6 +4,7 @@
 
 * [Android](#android)
   	* [Compose: Image Card](#compose-card)
+  	* [Compose: Text Styling](#compose-text)
 * [Cloud Services](#cloud-services)
 	* [Serverless](#serverless)
  	* [Middy](#middy)
@@ -14,6 +15,7 @@
 
 ### Android
 * [Compose: Create an Image Card](https://gist.github.com/braindome/9c2abbe353964fa1fb2a29aff82744a0)
+* [Compose: Text Styling](https://gist.github.com/braindome/f7bbb617bf6082a1296fa543015e8016)
 
 ### Cloud Services
 * [Serverless cheat sheet and Setup](https://gist.github.com/braindome/24ce38161e015ca43c4566b6f08d734b)
